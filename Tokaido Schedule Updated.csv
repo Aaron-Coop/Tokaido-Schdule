@@ -1,0 +1,250 @@
+Closest Station,Train Line,Hotels Nearby?,Food Nearby?,Hotel Travel Direction,Total Km,Km Diff
+,,,,,,
+Marunouchi,JR,yes,yes,,0.0,
+Tokaido 00,,,,,0.0,0.0
+Shinbashi,JR,yes,yes,,2.3,2.3
+Hamamatsucho,JR,yes,yes,,3.7,1.4
+Tamachi,JR,yes,yes,,5.0,1.3
+Takanawa,JR,no,yes,,6.5,1.5
+Shinagawa,JR,yes,yes,,7.5,1.0
+Shimbamba,Keikyu,yes,yes,,8.7,1.2
+Tokaido 01,,,,,8.9,0.2
+Aomono Yokocho,Keikyu,no,yes,,9.9,1.0
+Samezu,Keikyu,no,yes,,10.2,0.3
+Tachiagawa,Keikyu,no,yes,,11.0,0.8
+Omorikaigan,Keikyu,yes,yes,,12.3,1.3
+Heiwajima,Keikyu,yes,yes,,13.5,1.2
+Omorimachi,Keikyu,yes,yes,,14.4,0.9
+Umeyashiki,Keikyu,no,yes,,15.0,0.6
+Kamata,Keikyu,yes,yes,,15.8,0.8
+Zoshiki,Keikyu,no,yes,,17.3,1.5
+Rokugodote,Keikyu,yes,yes,,18.6,1.3
+Tokaido 02,,,,,18.7,0.1
+Kawasaki,Keikyu,yes,yes,,20.0,1.3
+Hatchonawate,Keikyu,no,yes,,21.2,1.2
+Tsurumi Ichiba,Keikyu,no,yes,,22.0,0.8
+Tsurumi,Keikyu,yes,yes,,23.7,1.7
+Kokudo,JR,no,yes,,24.5,0.8
+Namamugi,Keikyu,no,yes,,25.6,1.1
+Shin-Koyasu,Keikyu,yes,yes,,27.2,1.6
+Koyasu,Keikyu,no,yes,,28.1,0.9
+Kanagawa Shinmachi,Keikyu,no,yes,,28.8,0.7
+Higashi Kanagawa,Keikyu,no,yes,,29.5,0.7
+Kanagawa,Keikyu,yes,yes,,30.7,1.2
+Tokaido 03,,,,,31.0,0.3
+Yokohama,JR,yes,yes,,31.5,0.5
+Tennocho,Sotetsu,no,yes,East 3,33.9,2.4
+Hodogaya,JR,no,yes,,34.7,0.8
+Tokaido 04,,,,,35.2,0.5
+Higashi Totsuka,JR,no,yes,,39.2,4.0
+Totsuka,JR,yes,yes,,44.0,4.8
+Tokaido 05,,,,,44.6,0.6
+Tokaido 06,,,,,52.1,7.5
+Fujisawahommachi,Enoshima,no,yes,South 1,53.1,1.0
+Chigasaki,JR,yes,yes,,60.1,7.0
+Hiratsuka,JR,yes,yes,,65.5,5.4
+Tokaido 07,,,,,66.9,1.4
+Tokaido 08,,,,,69.5,2.6
+Oiso,JR,no,yes,,69.7,0.2
+Ninomiya,JR,no,yes,,75.3,5.6
+Kozu,JR,no,yes,,80.0,4.7
+Tokaido 09,,,,,83.3,3.3
+Odawara,JR,yes,yes,,86.5,3.2
+Hakoneteibashi,Hakonetozan,no,yes,,87.9,1.4
+Kazamatsuri,Hakonetozan,no,yes,,89.5,1.6
+Iriuda,Hakonetozan,no,no,194 ft elevation,90.6,1.1
+Hakone-Yumoto,Hakonetozan,yes,yes,302 ft elevation,92.0,1.4
+Lake Ashi,n/a,yes,yes,2405 ft elevation,103.1,11.1
+Tokaido 10,,,,,105.3,2.2
+Tokaido 11,,,,,119.6,14.3
+Mishima,JR,no,yes,"West 1, 2700 ft elevation",120.0,0.4
+Tokaido 12,,,,,124.8,4.8
+Numazu,JR,yes,yes,,126.0,1.2
+Katahama,JR,no,yes,,130.8,4.8
+Tokaido 13,,,,,132.0,1.2
+Hara,JR,no,no,,133.4,1.4
+Higashi Tanono Ura,JR,no,no,,138.1,4.7
+Yoshiwara,JR,no,no,,142.1,4.0
+Tokaido 14,,,,,143.6,1.5
+Yoshiwara Honcho,Gakunan,yes,yes,,144.6,1.0
+Fuji,JR,yes,yes,,149.0,4.4
+Yunoki,JR,no,yes,,150.1,1.1
+Fujikawa,JR,no,no,,153.5,3.4
+Shin-Kambara,JR,no,yes,,157.0,3.5
+Tokaido 15,,,,,157.2,0.2
+Kambara,JR,no,no,,159.5,2.3
+Yui,JR,no,no,,163.0,3.5
+Tokaido 16,,,,,166.4,3.4
+Tokaido 17,,,,,169.1,2.7
+Okitsu,JR,no,no,,170.5,1.4
+Tokaido 18,,,,,174.0,3.5
+Shimizu,JR,yes,yes,,175.5,1.5
+Irieoka,Shizuoka Shimizu,no,yes,,176.8,1.3
+Sakurabashi,Shizuoka Shimizu,no,yes,,177.2,0.4
+Kitsunegasaki,Shizuoka Shimizu,no,yes,,178.8,1.6
+Mikadodai,Shizuoka Shimizu,no,yes,,179.7,0.9
+Kusanagi,Shizuoka Shimizu,no,yes,,180.8,1.1
+Pref. Art Museum,Shizuoka Shimizu,no,yes,,181.5,0.7
+Pref. Sports Park,Shizuoka Shimizu,no,yes,,182.4,0.9
+Furusho,Shizuoka Shimizu,no,no,,183.6,1.2
+Naganuma,Shizuoka Shimizu,no,no,,184.4,0.8
+Yunoki,Shizuoka Shimizu,yes,yes,,185.4,1.0
+Kasugacho,Shizuoka Shimizu,no,yes,,186.4,1.0
+Otowa-Cho,Shizuoka Shimizu,no,yes,,186.7,0.3
+Hiyoshicho,Shizuoka Shimizu,yes,yes,,187.1,0.4
+Shin-Shizuoka,Shizuoka Shimizu,yes,yes,,187.6,0.5
+Shizuoka,JR,yes,yes,,187.9,0.3
+Tokaido 19,,,,,190.4,2.5
+Abekawa,JR,no,no,,192.7,2.3
+Tokaido 20,,,,,194.4,1.7
+Tokaido 21,,,,,196.0,1.6
+Hanashi River,n/a,yes,yes,,205.4,9.4
+Tokaido 22,,,,,207.7,2.3
+Fujieda,JR,yes,yes,,210.3,2.6
+Rokugo,JR,no,yes,,215.2,4.9
+Shimada,JR,yes,yes,,218.1,2.9
+Tokaido 23,,,,,220.1,2.0
+Tokaido 24,,,,,221.8,1.7
+Shin-Kanaya,Oigawa,no,no,,222.3,0.5
+Kanaya,JR,no,no,,223.8,1.5
+Tokaido 25,,,,,225.3,1.5
+Nissaka,n/a,only one,no,,230.6,5.3
+Tokaido 26,,,,,236.8,6.2
+Kakegawa,JR,yes,yes,,238.4,1.6
+Nishi-Kakegawa,JR,no,no,,240.8,2.4
+Aino,JR,no,no,,245.5,4.7
+Tokaido 27,,,,,247.0,1.5
+Fukuroi,JR,no,yes,,248.7,1.7
+Iwata,JR,yes,yes,,257.4,8.7
+Tokaido 28,,,,,262.9,5.5
+Tenryugawa,JR,yes,yes,,265.9,3.0
+Hamamatsu,JR,yes,yes,,270.2,4.3
+Tokaido 29,,,,,270.7,0.5
+Takatsuka,JR,no,no,,276.8,6.1
+Maisaka,JR,no,yes,,281.7,4.9
+Tokaido 30,,,,,283.4,1.7
+Bentenjima,JR,yes,yes,,284.2,0.8
+Tokaido 31,,,,,286.1,1.9
+Araimachi,JR,only one,yes,,287.4,1.3
+Tokaido 32,,,,,293.7,6.3
+Tokaido 33,,,,,300.8,7.1
+Futagawa,JR,no,yes,,302.6,1.8
+Toyohashi,JR,yes,yes,,310.2,7.6
+Tokaido 34,,,,,311.1,0.9
+Shimoji,JR,no,no,,312.5,1.4
+Kozakai,JR,no,no,,314.7,2.2
+Ina,Meitetsu Nagoya,no,no,South 1,315.5,0.8
+Odabuchi,Meitetsu Nagoya,no,no,,317.2,1.7
+Ko,Meitetsu Nagoya,no,yes,,320.8,3.6
+Goyu,Meitetsu Nagoya,no,yes,,322.1,1.3
+Tokaido 35,,,,,322.4,0.3
+Akasaka,Meitetsu Nagoya,no,no,,323.8,1.4
+Tokaido 36,,,,,323.9,0.1
+Nagasawa,Meitetsu Nagoya,no,no,,326.5,2.6
+Motojuku,Meitetsu Nagoya,no,no,,330.2,3.7
+Yamanaka,Meitetsu Nagoya,no,no,,332.0,1.8
+Tokaido 37,,,,,333.5,1.5
+Fujikawa,Meitetsu Nagoya,no,no,,334.8,1.3
+Miai,Meitetsu Nagoya,no,no,,337.1,2.3
+Higashi Okazaki,Meitetsu Nagoya,yes,yes,,342.3,5.2
+Okazaki Koen Mae,Meitetsu Nagoya,no,no,,345.4,3.1
+Tokaido 38,,,,,346.5,1.1
+Yahagibashi,Meitetsu Nagoya,no,no,,347.3,0.8
+Uto,Meitetsu Nagoya,no,no,,349.7,2.4
+Shin Anjo,Meitetsu Nagoya,no,yes,,353.4,3.7
+Ushida,Meitetsu Nagoya,no,no,,356.2,2.8
+Tokaido 39,,,,,356.6,0.4
+Chiryu,Meitetsu Nagoya,yes,yes,,358.2,1.6
+Fujimatsu,Meitetsu Nagoya,no,no,,362.0,3.8
+Toyoake,Meitetsu Nagoya,no,no,,363.6,1.6
+Zengo,Meitetsu Nagoya,no,no,,365.3,1.7
+Chukyo Keibajo Mae,Meitetsu Nagoya,no,yes,,367.1,1.8
+Arimatsu,Meitetsu Nagoya,no,no,,368.3,1.2
+Tokaido 40,,,,,368.6,0.3
+Sakyoyama,Meitetsu Nagoya,no,no,,369.5,0.9
+Narumi,Meitetsu Nagoya,no,no,,370.6,1.1
+Moto Kasadera,Meitetsu Nagoya,no,yes,,374.0,3.4
+Sakura ,Meitetsu Nagoya,no,no,,374.8,0.8
+Yobitsugi,Meitetsu Nagoya,no,no,,375.6,0.8
+Horita,Meitetsu Nagoya,no,no,,376.9,1.3
+Jingu Mae,Meitetsu Nagoya,yes,no,,377.8,0.9
+Tokaido 41,,,,,378.2,0.4
+Rokubancho,Meiko,no,yes,,380.8,2.6
+Nakajima,Aonami,no,no,,383.3,2.5
+Tomiyoshi,Kintetsu Nagoya,no,yes,,391.9,8.6
+Sakogi,Kintetsu Nagoya,no,no,,393.3,1.4
+Yatomi,Kintetsu Nagoya,no,yes,,395.7,2.4
+Nagashima,Kintetsu Nagoya,no,yes,,398.7,3.0
+Tokaido 42,,,,,402.9,4.2
+Kuwana,Kintetsu Nagoya,yes,yes,,403.7,0.8
+Masuo,Kintetsu Nagoya,no,yes,,405.7,2.0
+Ise-Asahi,Kintetsu Nagoya,no,no,,408.3,2.6
+Asahi,JR,no,no,North 1,409.5,1.2
+Tokaido 43,,,,,410.5,1.0
+Kintetsu Tomida,Kintetsu Nagoya,no,no,,412.9,2.4
+Kasumigaura,Kintetsu Nagoya,no,no,,415.2,2.3
+Akuragawa,Kintetsu Nagoya,no,no,,416.2,1.0
+Kawaramachi,Kintetsu Nagoya,only one,no,,417.4,1.2
+Yokkaichi,Kintetsu Nagoya,yes,yes,,418.7,1.3
+Akahori,Yokkaichi-Asunaro,only one,no,North 1,420.3,1.6
+Hinaga,Yokkaichi-Asunaro,no,no,,420.9,0.6
+Minami Hinaga,Yokkaichi-Asunaro,no,yes,,421.5,0.6
+Tomari,Yokkaichi-Asunaro,no,no,,422.7,1.2
+Oiwake,Yokkaichi-Asunaro,no,no,,423.5,0.8
+Ogoso,Yokkaichi-Asunaro,no,no,,424.2,0.7
+Utsube,Yokkaichi-Asunaro,no,no,,424.8,0.6
+Tokaido 44,,,,,431.1,6.3
+Kasado,JR,no,no,,433.1,2.0
+Tokaido 45,,,,,434.0,0.9
+Idagawa,JR,no,no,,438.8,4.8
+Kameyama,JR,yes,yes,,443.6,4.8
+Tokaido 46,,,,,443.6,0.0
+Seki,JR,no,yes,,449.3,5.7
+Tokaido 47,,,,,450.0,0.7
+Tokaido 48,,,,,452.9,2.9
+Tsuchimacho,n/a,only one,no,"1 hr to Golf Resort, 850 ft elevation",462.0,9.1
+Tokaido 49,,,,,463.6,1.6
+Tsuchiyamacho,bus,no,no,"1 hr to Golf Resort, 850 ft elevation",472.4,8.8
+Tokaido 50,,,,,477.8,5.4
+Minakuchiishibashi,Omi Tetsudo,yes,yes,,478.9,1.1
+Mikumo,Kusatsu,yes,yes,,486.2,7.3
+Kosei,Kusatsu,no,no,,490.1,3.9
+Tokaido 51,,,,,492.8,2.7
+Ishibe,Kusatsu,no,no,,493.8,1.0
+Tehara,Kusatsu,yes,no,,499.1,5.3
+Kusatsu,Tokaido Sanyo,yes,yes,,503.6,4.5
+Tokaido 52,,,,,504.8,1.2
+Minami Kusatsu,Tokaido Sanyo,only one,yes,,505.5,0.7
+Seta,Tokaido Sanyo,only one,no,,508.9,3.4
+Ishiyama,Tokaido Sanyo,only one,yes,,512.6,3.7
+Awazu,Ishiyama Sakamoto,no,no,,513.5,0.9
+Kawaragahama,Ishiyama Sakamoto,no,no,,514.2,0.7
+Nakanosho,Ishiyama Sakamoto,no,no,,514.7,0.5
+Zeze Hommachi,Ishiyama Sakamoto,no,no,,515.1,0.4
+Keihan Zeze,Ishiyama Sakamoto,only one,yes,,516.8,1.7
+Ishiba,Ishiyama Sakamoto,only one,no,,517.3,0.5
+Biwako Hamaotsu,Ishiyama Sakamoto,yes,yes,,518.6,1.3
+Otsu,Tokaido Sanyo,only one,yes,,519.3,0.7
+Otani,Keihan Keishin,no,no,,520.7,1.4
+Tokaido 53,,,,,520.8,0.1
+Oiwake,Keihan Keishin,no,no,,522.1,1.3
+Shinomiya,Keihan Keishin,no,no,,523.6,1.5
+Yamashina,Tokaido Sanyo,only one,yes,,524.2,0.6
+Misasagi,Tozai,no,no,,525.7,1.5
+Kaege,Tozai,yes,no,,527.9,2.2
+Higashiyama,Tozai,yes,yes,,528.9,1.0
+Sanyo Keihan,Tozai,yes,yes,,529.6,0.7
+Sanjo Bridge,n/a,yes,yes,,529.7,0.1
+Tokaido 54,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
