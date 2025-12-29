@@ -1,0 +1,1407 @@
+<?xml version="1.0"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="http://www.delorme.com" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="35.683761" lon="139.774229">
+    <ele>0</ele>
+    <time>2023-06-04T04:40:49.252415Z</time>
+    <name>Tokaido 00</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.617074" lon="139.744536">
+    <ele>0</ele>
+    <time>2023-06-04T04:43:08.0957398Z</time>
+    <name>Tokaido 01</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.540199" lon="139.709286">
+    <ele>0</ele>
+    <time>2023-06-04T04:45:57.8213166Z</time>
+    <name>Tokaido 02</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.470502" lon="139.623902">
+    <ele>0</ele>
+    <time>2023-06-04T04:48:39.8487623Z</time>
+    <name>Tokaido 03</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.444025" lon="139.595837">
+    <ele>0</ele>
+    <time>2023-06-04T04:50:27.0795209Z</time>
+    <name>Tokaido 04</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.397620" lon="139.530629">
+    <ele>0</ele>
+    <time>2023-06-04T04:54:37.1748471Z</time>
+    <name>Tokaido 05</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.346357" lon="139.486842">
+    <ele>0</ele>
+    <time>2023-06-04T04:56:37.9914198Z</time>
+    <name>Tokaido 06</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.326838" lon="139.335921">
+    <ele>0</ele>
+    <time>2023-06-04T05:04:47.9029309Z</time>
+    <name>Tokaido 07</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.311163" lon="139.316531">
+    <ele>0</ele>
+    <time>2023-06-04T05:07:29.5072662Z</time>
+    <name>Tokaido 08</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.264635" lon="139.182687">
+    <ele>0</ele>
+    <time>2023-06-04T05:08:58.9888296Z</time>
+    <name>Tokaido 09</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.184945" lon="139.016719">
+    <ele>0</ele>
+    <time>2023-06-04T05:20:17.6349899Z</time>
+    <name>Tokaido 10</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.120152" lon="138.919263">
+    <ele>0</ele>
+    <time>2023-06-04T05:23:59.1324638Z</time>
+    <name>Tokaido 11</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.099281" lon="138.870399">
+    <ele>0</ele>
+    <time>2023-06-04T05:25:00.2971579Z</time>
+    <name>Tokaido 12</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.121181" lon="138.808788">
+    <ele>0</ele>
+    <time>2023-06-04T05:28:36.9135673Z</time>
+    <name>Tokaido 13</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.155257" lon="138.698336">
+    <ele>0</ele>
+    <time>2023-06-04T05:36:14.5733311Z</time>
+    <name>Tokaido 14</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.120120" lon="138.605655">
+    <ele>0</ele>
+    <time>2023-06-04T05:38:11.8939635Z</time>
+    <name>Tokaido 15</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.070824" lon="138.541257">
+    <ele>0</ele>
+    <time>2023-06-04T05:39:41.5293947Z</time>
+    <name>Tokaido 16</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.058592" lon="138.532685">
+    <ele>0</ele>
+    <time>2023-06-04T05:42:26.5479388Z</time>
+    <name>Tokaido 17</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.666718" lon="139.760403">
+    <ele>0</ele>
+    <time>2023-06-21T04:09:07.2383436Z</time>
+    <name>Station Shinbashi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.655559" lon="139.754441">
+    <ele>0</ele>
+    <time>2023-06-21T04:11:21.3917545Z</time>
+    <name>Station Hamamatsucho</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.646951" lon="139.746952">
+    <ele>0</ele>
+    <time>2023-06-21T04:12:38.3960635Z</time>
+    <name>Station Tamachi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.635759" lon="139.738637">
+    <ele>0</ele>
+    <time>2023-06-21T04:13:55.7769131Z</time>
+    <name>Station Takanawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.627989" lon="139.737668">
+    <ele>0</ele>
+    <time>2023-06-21T04:19:35.7870648Z</time>
+    <name>Station Shinagawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.607487" lon="139.744111">
+    <ele>0</ele>
+    <time>2023-06-21T05:31:52.0850835Z</time>
+    <name>Station Aomono Yokocho</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.604725" lon="139.743085">
+    <ele>0</ele>
+    <time>2023-06-21T05:33:56.6068308Z</time>
+    <name>Station Samezu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.598147" lon="139.740193">
+    <ele>0</ele>
+    <time>2023-06-21T05:34:52.1930575Z</time>
+    <name>Station Tachiagawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.587853" lon="139.736009">
+    <ele>0</ele>
+    <time>2023-06-21T05:35:40.9877432Z</time>
+    <name>Station Omorikaigan</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.578825" lon="139.736552">
+    <ele>0</ele>
+    <time>2023-06-21T05:36:40.9983351Z</time>
+    <name>Station Heiwajima</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.571832" lon="139.732575">
+    <ele>0</ele>
+    <time>2023-06-21T05:37:45.0459532Z</time>
+    <name>Station Omorimachi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.567183" lon="139.729042">
+    <ele>0</ele>
+    <time>2023-06-21T05:39:05.8402864Z</time>
+    <name>Station Umeyashiki</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.560940" lon="139.724422">
+    <ele>0</ele>
+    <time>2023-06-21T05:39:54.7948468Z</time>
+    <name>Station Keikyu Kamata</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.549418" lon="139.715677">
+    <ele>0</ele>
+    <time>2023-06-21T05:41:30.8851061Z</time>
+    <name>Station Zoshiki</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.540546" lon="139.709337">
+    <ele>0</ele>
+    <time>2023-06-21T05:44:16.2173523Z</time>
+    <name>Station Rokugodote</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.523831" lon="139.692380">
+    <ele>0</ele>
+    <time>2023-06-21T06:09:05.7718723Z</time>
+    <name>Station Hatchonawate</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.519598" lon="139.686430">
+    <ele>0</ele>
+    <time>2023-06-22T06:31:57.8410703Z</time>
+    <name>Station Tsurumi Ichiba</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.507346" lon="139.678336">
+    <ele>0</ele>
+    <time>2023-06-22T06:33:06.8203902Z</time>
+    <name>Station Keikyu Tsurumi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.500728" lon="139.675967">
+    <ele>0</ele>
+    <time>2023-06-22T06:34:30.7920091Z</time>
+    <name>Station Kokudo</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.493499" lon="139.669671">
+    <ele>0</ele>
+    <time>2023-06-22T06:35:22.5772905Z</time>
+    <name>Station Namamugi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.486168" lon="139.655206">
+    <ele>0</ele>
+    <time>2023-06-22T06:36:58.1703883Z</time>
+    <name>Station Keikyu Shin-Koyasu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.484103" lon="139.645550">
+    <ele>0</ele>
+    <time>2023-06-22T06:37:47.4800064Z</time>
+    <name>Station Koyasu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.480876" lon="139.640547">
+    <ele>0</ele>
+    <time>2023-06-22T06:38:30.1597694Z</time>
+    <name>Station Kanagawa Shinmachi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.476095" lon="139.635537">
+    <ele>0</ele>
+    <time>2023-06-22T06:39:38.0955292Z</time>
+    <name>Station Keikyu Higashi Kanagawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.471296" lon="139.626503">
+    <ele>0</ele>
+    <time>2023-06-22T06:40:35.7689984Z</time>
+    <name>Station Kanagawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.453998" lon="139.603252">
+    <ele>0</ele>
+    <time>2023-06-22T06:43:09.1535194Z</time>
+    <name>Station Tennocho</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.447829" lon="139.598572">
+    <ele>0</ele>
+    <time>2023-06-22T06:44:55.0706986Z</time>
+    <name>Station Hodogaya</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.430302" lon="139.563071">
+    <ele>0</ele>
+    <time>2023-06-22T06:47:08.0376221Z</time>
+    <name>Station Higashi Totsuka</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.401791" lon="139.533328">
+    <ele>0</ele>
+    <time>2023-06-22T06:48:40.781812Z</time>
+    <name>Station Totsuka</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.347275" lon="139.476619">
+    <ele>0</ele>
+    <time>2023-06-22T06:51:46.939604Z</time>
+    <name>Station Fujisawahommachi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.333170" lon="139.405631">
+    <ele>0</ele>
+    <time>2023-06-22T06:53:01.1520512Z</time>
+    <name>Station Chigasaki</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.330052" lon="139.350320">
+    <ele>0</ele>
+    <time>2023-06-22T06:54:14.350962Z</time>
+    <name>Station Hiratsuka</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.298070" lon="139.258676">
+    <ele>0</ele>
+    <time>2023-06-22T06:58:32.2460158Z</time>
+    <name>Station Ninomiya</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.280148" lon="139.212570">
+    <ele>0</ele>
+    <time>2023-06-22T06:59:34.3413538Z</time>
+    <name>Station Kozu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.248341" lon="139.159738">
+    <ele>0</ele>
+    <time>2023-06-22T07:01:27.5077703Z</time>
+    <name>Station Odawara</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.246942" lon="139.145661">
+    <ele>0</ele>
+    <time>2023-06-22T07:02:36.3060566Z</time>
+    <name>Station Hakoneteibashi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.035732" lon="138.493050">
+    <ele>0</ele>
+    <time>2023-06-29T16:59:12.413722Z</time>
+    <name>Tokaido 18</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.961619" lon="138.369401">
+    <ele>0</ele>
+    <time>2023-06-29T17:01:46.2874355Z</time>
+    <name>Tokaido 19</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.950128" lon="138.338052">
+    <ele>0</ele>
+    <time>2023-06-29T17:03:33.4740086Z</time>
+    <name>Tokaido 20</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.942191" lon="138.326902">
+    <ele>0</ele>
+    <time>2023-06-29T17:07:05.3878249Z</time>
+    <name>Tokaido 21</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.873947" lon="138.262584">
+    <ele>0</ele>
+    <time>2023-06-29T17:08:31.6174533Z</time>
+    <name>Tokaido 22</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.830700" lon="138.153736">
+    <ele>0</ele>
+    <time>2023-06-29T17:23:01.939136Z</time>
+    <name>Tokaido 23</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.827771" lon="138.141645">
+    <ele>0</ele>
+    <time>2023-06-29T17:25:29.2312535Z</time>
+    <name>Tokaido 24</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.816257" lon="138.115971">
+    <ele>0</ele>
+    <time>2023-06-29T17:27:21.8173684Z</time>
+    <name>Tokaido 25</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.776062" lon="138.027891">
+    <ele>0</ele>
+    <time>2023-06-29T17:32:13.8122103Z</time>
+    <name>Tokaido 26</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.756248" lon="137.934967">
+    <ele>0</ele>
+    <time>2023-06-29T17:34:26.4190072Z</time>
+    <name>Tokaido 27</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.730271" lon="137.803304">
+    <ele>0</ele>
+    <time>2023-06-29T17:38:43.6830081Z</time>
+    <name>Tokaido 28</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.708137" lon="137.729416">
+    <ele>0</ele>
+    <time>2023-06-29T17:42:17.1537688Z</time>
+    <name>Tokaido 29</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.684689" lon="137.608330">
+    <ele>0</ele>
+    <time>2023-06-29T17:44:26.4660949Z</time>
+    <name>Tokaido 30</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.694044" lon="137.583801">
+    <ele>0</ele>
+    <time>2023-06-29T17:46:00.2406904Z</time>
+    <name>Tokaido 31</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.681248" lon="137.512305">
+    <ele>0</ele>
+    <time>2023-06-29T17:48:25.2628341Z</time>
+    <name>Tokaido 32</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.721888" lon="137.457985">
+    <ele>0</ele>
+    <time>2023-06-29T17:52:16.5201806Z</time>
+    <name>Tokaido 33</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.772824" lon="137.384094">
+    <ele>0</ele>
+    <time>2023-06-29T17:54:43.3325006Z</time>
+    <name>Tokaido 34</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.846005" lon="137.316374">
+    <ele>0</ele>
+    <time>2023-06-29T18:01:19.785042Z</time>
+    <name>Tokaido 35</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.856434" lon="137.307475">
+    <ele>0</ele>
+    <time>2023-06-29T18:04:15.3925424Z</time>
+    <name>Tokaido 36</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.908272" lon="137.229259">
+    <ele>0</ele>
+    <time>2023-06-29T18:07:15.2879954Z</time>
+    <name>Tokaido 37</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.959681" lon="137.147829">
+    <ele>0</ele>
+    <time>2023-06-29T18:19:00.2948941Z</time>
+    <name>Tokaido 38</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.002747" lon="137.058004">
+    <ele>0</ele>
+    <time>2023-06-29T18:23:57.172452Z</time>
+    <name>Tokaido 39</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.068141" lon="136.967950">
+    <ele>0</ele>
+    <time>2023-06-29T18:27:05.0289817Z</time>
+    <name>Tokaido 40</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.121118" lon="136.907853">
+    <ele>0</ele>
+    <time>2023-06-29T18:29:37.0076783Z</time>
+    <name>Tokaido 41</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.068018" lon="136.696483">
+    <ele>0</ele>
+    <time>2023-06-29T18:43:29.6107577Z</time>
+    <name>Tokaido 42</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.026018" lon="136.654621">
+    <ele>0</ele>
+    <time>2023-06-29T18:47:00.4340568Z</time>
+    <name>Tokaido 43</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.899080" lon="136.548160">
+    <ele>0</ele>
+    <time>2023-06-29T18:50:44.1868225Z</time>
+    <name>Tokaido 44</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.887352" lon="136.527278">
+    <ele>0</ele>
+    <time>2023-06-29T18:55:54.5235402Z</time>
+    <name>Tokaido 45</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.853944" lon="136.450396">
+    <ele>0</ele>
+    <time>2023-06-29T19:00:28.7052198Z</time>
+    <name>Tokaido 46</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.853861" lon="136.387935">
+    <ele>0</ele>
+    <time>2023-06-29T19:03:54.1130689Z</time>
+    <name>Tokaido 47</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.869723" lon="136.369319">
+    <ele>0</ele>
+    <time>2023-06-29T19:05:21.1297762Z</time>
+    <name>Tokaido 48</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.928341" lon="136.298886">
+    <ele>0</ele>
+    <time>2023-06-29T19:10:57.0476917Z</time>
+    <name>Tokaido 49</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.966106" lon="136.182707">
+    <ele>0</ele>
+    <time>2023-06-29T19:14:00.3503356Z</time>
+    <name>Tokaido 50</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.010011" lon="136.054784">
+    <ele>0</ele>
+    <time>2023-06-29T19:16:15.1798887Z</time>
+    <name>Tokaido 51</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.008325" lon="135.954326">
+    <ele>0</ele>
+    <time>2023-06-29T19:21:11.3900144Z</time>
+    <name>Tokaido 52</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.994259" lon="135.852610">
+    <ele>0</ele>
+    <time>2023-06-29T19:24:24.5537307Z</time>
+    <name>Tokaido 53</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.009081" lon="135.772178">
+    <ele>0</ele>
+    <time>2023-06-29T19:27:11.6506474Z</time>
+    <name>Tokaido 54</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.246614" lon="139.128934">
+    <ele>0</ele>
+    <time>2023-07-08T21:21:22.8356664Z</time>
+    <name>Station Kazamatsuri</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.240593" lon="139.120210">
+    <ele>0</ele>
+    <time>2023-07-08T21:35:49.2793026Z</time>
+    <name>Station Iriuda</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.233758" lon="139.108783">
+    <ele>0</ele>
+    <time>2023-07-08T21:37:06.812857Z</time>
+    <name>Station Hakone Yumoto</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.119431" lon="138.914811">
+    <ele>0</ele>
+    <time>2023-07-08T21:40:46.7626511Z</time>
+    <name>Station Mishima</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.098138" lon="138.858607">
+    <ele>0</ele>
+    <time>2023-07-08T21:42:32.8293913Z</time>
+    <name>Station Numazu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.116506" lon="138.818859">
+    <ele>0</ele>
+    <time>2023-07-08T21:44:05.0423495Z</time>
+    <name>Station Katahama</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.126326" lon="138.794661">
+    <ele>0</ele>
+    <time>2023-07-08T21:45:34.3849305Z</time>
+    <name>Station Hara</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.135383" lon="138.745018">
+    <ele>0</ele>
+    <time>2023-07-08T21:47:05.6781974Z</time>
+    <name>Station Higashi Tonano Ura</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.144613" lon="138.704238">
+    <ele>0</ele>
+    <time>2023-07-08T21:49:06.8532866Z</time>
+    <name>Station Yoshiwara</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.161022" lon="138.690062">
+    <ele>0</ele>
+    <time>2023-07-08T21:50:22.0794116Z</time>
+    <name>Station Yoshiwara Honcho</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.156082" lon="138.651405">
+    <ele>0</ele>
+    <time>2023-07-08T21:52:32.0783968Z</time>
+    <name>Station Fuji</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.157793" lon="138.639375">
+    <ele>0</ele>
+    <time>2023-07-08T21:53:43.5211462Z</time>
+    <name>Station Yunoki</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.143808" lon="138.617210">
+    <ele>0</ele>
+    <time>2023-07-08T21:55:38.1573133Z</time>
+    <name>Station Fujikawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.120219" lon="138.607121">
+    <ele>0</ele>
+    <time>2023-07-08T21:58:12.5933465Z</time>
+    <name>Station Shin-Kambara</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.114813" lon="138.583282">
+    <ele>0</ele>
+    <time>2023-07-08T21:59:13.73919Z</time>
+    <name>Station Kambara</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.097255" lon="138.552511">
+    <ele>0</ele>
+    <time>2023-07-08T22:00:48.85768Z</time>
+    <name>Station Yui</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.051344" lon="138.522399">
+    <ele>0</ele>
+    <time>2023-07-08T22:01:55.7696308Z</time>
+    <name>Station Okitsu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.023607" lon="138.485856">
+    <ele>0</ele>
+    <time>2023-07-08T22:03:24.7956372Z</time>
+    <name>Station Shimizu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.017391" lon="138.480408">
+    <ele>0</ele>
+    <time>2023-07-08T22:04:21.7680356Z</time>
+    <name>Station Irieoka</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.016063" lon="138.476399">
+    <ele>0</ele>
+    <time>2023-07-08T22:05:30.468616Z</time>
+    <name>Station Sakurabashi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.010467" lon="138.459869">
+    <ele>0</ele>
+    <time>2023-07-08T22:06:52.8367555Z</time>
+    <name>Station Kitsunegasaki</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.006072" lon="138.453353">
+    <ele>0</ele>
+    <time>2023-07-08T22:08:04.0118995Z</time>
+    <name>Station Mikadodai</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.001193" lon="138.443620">
+    <ele>0</ele>
+    <time>2023-07-08T22:09:10.4807365Z</time>
+    <name>Station Kusanagi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.996306" lon="138.438917">
+    <ele>0</ele>
+    <time>2023-07-08T22:10:30.1660649Z</time>
+    <name>Station Pref. Art Museum</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.992617" lon="138.430356">
+    <ele>0</ele>
+    <time>2023-07-08T22:12:02.847643Z</time>
+    <name>Station Pref. Sports Park</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.991806" lon="138.419788">
+    <ele>0</ele>
+    <time>2023-07-08T22:20:14.6333342Z</time>
+    <name>Station Furusho</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.988627" lon="138.412539">
+    <ele>0</ele>
+    <time>2023-07-08T22:21:08.5765824Z</time>
+    <name>Station Naganuma</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.981707" lon="138.406670">
+    <ele>0</ele>
+    <time>2023-07-08T22:22:17.8073102Z</time>
+    <name>Station Yunoki</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.977708" lon="138.399684">
+    <ele>0</ele>
+    <time>2023-07-08T22:23:46.5936175Z</time>
+    <name>Station Kasugacho</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.977702" lon="138.396868">
+    <ele>0</ele>
+    <time>2023-07-08T22:24:53.7322636Z</time>
+    <name>Station Otowa-Cho</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.976243" lon="138.392526">
+    <ele>0</ele>
+    <time>2023-07-08T22:26:15.3700561Z</time>
+    <name>Station Hiyoshicho</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.974856" lon="138.388207">
+    <ele>0</ele>
+    <time>2023-07-08T22:27:24.4623248Z</time>
+    <name>Station Shin-Shizuoka</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.310009" lon="139.315816">
+    <ele>0</ele>
+    <time>2023-07-08T22:30:51.3502979Z</time>
+    <name>Station Oiso</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.531443" lon="139.701473">
+    <ele>0</ele>
+    <time>2023-07-08T22:35:13.9139854Z</time>
+    <name>Station Keikyu Kawasaki</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.618173" lon="139.743942">
+    <ele>0</ele>
+    <time>2023-07-08T22:37:28.8996653Z</time>
+    <name>Station Shimbamba</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.856748" lon="138.248760">
+    <ele>0</ele>
+    <time>2023-07-08T23:28:53.5392179Z</time>
+    <name>Station Fujieda</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.837771" lon="138.204682">
+    <ele>0</ele>
+    <time>2023-07-08T23:30:54.5446519Z</time>
+    <name>Station Rokugo</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.832891" lon="138.174724">
+    <ele>0</ele>
+    <time>2023-07-08T23:33:03.2372922Z</time>
+    <name>Station Shimada</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.826757" lon="138.137765">
+    <ele>0</ele>
+    <time>2023-07-08T23:34:32.0882824Z</time>
+    <name>Station Shin-Kanaya</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.819900" lon="138.126158">
+    <ele>0</ele>
+    <time>2023-07-08T23:35:53.0305042Z</time>
+    <name>Station Kanaya</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.772853" lon="138.015277">
+    <ele>0</ele>
+    <time>2023-07-08T23:38:02.2370169Z</time>
+    <name>Station Kakegawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.771996" lon="137.994419">
+    <ele>0</ele>
+    <time>2023-07-08T23:43:59.010371Z</time>
+    <name>Station Nishi-Kakegawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.759490" lon="137.950759">
+    <ele>0</ele>
+    <time>2023-07-08T23:47:09.9762728Z</time>
+    <name>Station Aino</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.747320" lon="137.922697">
+    <ele>0</ele>
+    <time>2023-07-08T23:48:06.482906Z</time>
+    <name>Station Fukuroi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.711733" lon="137.852192">
+    <ele>0</ele>
+    <time>2023-07-08T23:50:27.2732382Z</time>
+    <name>Station Iwata</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.720421" lon="137.777956">
+    <ele>0</ele>
+    <time>2023-07-08T23:52:54.6024264Z</time>
+    <name>Station Tenryugawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.708203" lon="137.734185">
+    <ele>0</ele>
+    <time>2023-07-08T23:54:24.001729Z</time>
+    <name>Station Hamamatsu</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.687822" lon="137.679300">
+    <ele>0</ele>
+    <time>2023-07-08T23:55:34.4667987Z</time>
+    <name>Station Takatsuka</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.683722" lon="137.626913">
+    <ele>0</ele>
+    <time>2023-07-08T23:57:00.7036697Z</time>
+    <name>Station Maisaka</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.689669" lon="137.603543">
+    <ele>0</ele>
+    <time>2023-07-08T23:58:02.2230907Z</time>
+    <name>Station Bentenjima</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.693932" lon="137.569167">
+    <ele>0</ele>
+    <time>2023-07-08T23:59:04.0485062Z</time>
+    <name>Station Araimachi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.726184" lon="137.439225">
+    <ele>0</ele>
+    <time>2023-07-09T00:00:28.7850889Z</time>
+    <name>Station Futagawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.767572" lon="137.385972">
+    <ele>0</ele>
+    <time>2023-07-09T00:03:01.1564297Z</time>
+    <name>Station Toyohashi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.782181" lon="137.376606">
+    <ele>0</ele>
+    <time>2023-07-09T00:04:21.4122663Z</time>
+    <name>Station Shimoji</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.798749" lon="137.364251">
+    <ele>0</ele>
+    <time>2023-07-09T04:52:05.1400625Z</time>
+    <name>Station Kozakai</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.804428" lon="137.359761">
+    <ele>0</ele>
+    <time>2023-07-09T04:56:51.0160466Z</time>
+    <name>Station Ina</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.816759" lon="137.348608">
+    <ele>0</ele>
+    <time>2023-07-09T04:57:59.8044038Z</time>
+    <name>Station Odabuchi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.836087" lon="137.325088">
+    <ele>0</ele>
+    <time>2023-07-09T04:59:22.3652459Z</time>
+    <name>Station Ko</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.844220" lon="137.318054">
+    <ele>0</ele>
+    <time>2023-07-09T05:00:44.6964395Z</time>
+    <name>Station Goyu</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.855927" lon="137.308058">
+    <ele>0</ele>
+    <time>2023-07-09T05:02:26.9402212Z</time>
+    <name>Station Meiden Akasaka</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.870570" lon="137.286312">
+    <ele>0</ele>
+    <time>2023-07-09T05:04:44.4042329Z</time>
+    <name>Station Meiden Nagasawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.892976" lon="137.258440">
+    <ele>0</ele>
+    <time>2023-07-09T05:07:06.6327037Z</time>
+    <name>Station Motojuku</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.899622" lon="137.241889">
+    <ele>0</ele>
+    <time>2023-07-09T05:08:35.6752253Z</time>
+    <name>Station Meiden Yamanaka</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.912731" lon="137.217283">
+    <ele>0</ele>
+    <time>2023-07-09T05:10:17.7080947Z</time>
+    <name>Station Fujikawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.926200" lon="137.199215">
+    <ele>0</ele>
+    <time>2023-07-09T18:38:22.7169818Z</time>
+    <name>Station Miai</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.957542" lon="137.170519">
+    <ele>0</ele>
+    <time>2023-07-09T18:39:36.6611952Z</time>
+    <name>Station Higashi Okazaki</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.956560" lon="137.154460">
+    <ele>0</ele>
+    <time>2023-07-09T18:41:47.5831235Z</time>
+    <name>Station Okazaki Koen Mae</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.963172" lon="137.141865">
+    <ele>0</ele>
+    <time>2023-07-09T18:42:43.4215647Z</time>
+    <name>Station Yahagibashi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.973335" lon="137.119825">
+    <ele>0</ele>
+    <time>2023-07-09T18:44:56.9238098Z</time>
+    <name>Station Uto</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.991319" lon="137.087840">
+    <ele>0</ele>
+    <time>2023-07-09T18:47:59.4532484Z</time>
+    <name>Station Shin Anjo</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.001906" lon="137.062231">
+    <ele>0</ele>
+    <time>2023-07-09T18:48:52.6281879Z</time>
+    <name>Station Ushida</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.008151" lon="137.042133">
+    <ele>0</ele>
+    <time>2023-07-09T18:50:05.155699Z</time>
+    <name>Station Chiryu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.029981" lon="137.017728">
+    <ele>0</ele>
+    <time>2023-07-09T18:51:21.9972431Z</time>
+    <name>Station Fujimatsu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.041537" lon="137.009003">
+    <ele>0</ele>
+    <time>2023-07-09T18:52:15.5011491Z</time>
+    <name>Station Toyoake</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.060908" lon="136.980726">
+    <ele>0</ele>
+    <time>2023-07-09T18:55:22.8390413Z</time>
+    <name>Station Chukyo Keibajo Mae</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.052765" lon="136.996483">
+    <ele>0</ele>
+    <time>2023-07-09T18:57:53.5334045Z</time>
+    <name>Station Zengo</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.067052" lon="136.970473">
+    <ele>0</ele>
+    <time>2023-07-09T18:59:23.5339364Z</time>
+    <name>Station Arimatsu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.072464" lon="136.960177">
+    <ele>0</ele>
+    <time>2023-07-09T19:00:35.8855029Z</time>
+    <name>Station Sakyoyama</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.079430" lon="136.952257">
+    <ele>0</ele>
+    <time>2023-07-09T19:01:51.7768008Z</time>
+    <name>Station Narumi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.100250" lon="136.934098">
+    <ele>0</ele>
+    <time>2023-07-09T19:03:14.8359717Z</time>
+    <name>Station Moto Kasadera</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.107116" lon="136.933866">
+    <ele>0</ele>
+    <time>2023-07-09T19:04:52.6077434Z</time>
+    <name>Station Sakura</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.113141" lon="136.929988">
+    <ele>0</ele>
+    <time>2023-07-09T19:05:49.7746642Z</time>
+    <name>Station Yobitsugi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.116585" lon="136.918114">
+    <ele>0</ele>
+    <time>2023-07-09T19:06:48.2808504Z</time>
+    <name>Station Horita</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.120156" lon="136.909973">
+    <ele>0</ele>
+    <time>2023-07-09T19:09:55.9555251Z</time>
+    <name>Station Jingu Mae</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.123825" lon="136.888468">
+    <ele>0</ele>
+    <time>2023-07-09T19:11:30.1269998Z</time>
+    <name>Station Rokubancho</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.124535" lon="136.861507">
+    <ele>0</ele>
+    <time>2023-07-09T19:12:58.4907929Z</time>
+    <name>Station Nakajima</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.122067" lon="136.769239">
+    <ele>0</ele>
+    <time>2023-07-09T19:14:43.5811609Z</time>
+    <name>Station Tomiyoshi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.118385" lon="136.754041">
+    <ele>0</ele>
+    <time>2023-07-09T19:15:57.3227541Z</time>
+    <name>Station Sakogi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.112441" lon="136.728973">
+    <ele>0</ele>
+    <time>2023-07-09T19:16:55.2865754Z</time>
+    <name>Station Kintetsu Yatomi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.096585" lon="136.703374">
+    <ele>0</ele>
+    <time>2023-07-09T19:23:41.0228817Z</time>
+    <name>Station Kintetsu Nagashima</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.063747" lon="136.693397">
+    <ele>0</ele>
+    <time>2023-07-10T01:53:17.16622Z</time>
+    <name>Station Kuwana</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.057615" lon="136.681885">
+    <ele>0</ele>
+    <time>2023-07-10T01:58:55.1860213Z</time>
+    <name>Station Masuo</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.038896" lon="136.668950">
+    <ele>0</ele>
+    <time>2023-07-10T02:00:52.7076814Z</time>
+    <name>Station Ise-Asahi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.033147" lon="136.658965">
+    <ele>0</ele>
+    <time>2023-07-10T02:45:34.9707053Z</time>
+    <name>Station Asahi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.006726" lon="136.651782">
+    <ele>0</ele>
+    <time>2023-07-10T02:47:35.0641722Z</time>
+    <name>Station Kintetsu Tomida</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.990448" lon="136.638967">
+    <ele>0</ele>
+    <time>2023-07-10T02:49:29.5230456Z</time>
+    <name>Station Kasumigaura</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.983953" lon="136.632023">
+    <ele>0</ele>
+    <time>2023-07-10T02:50:39.2215718Z</time>
+    <name>Station Akuragawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.974736" lon="136.627087">
+    <ele>0</ele>
+    <time>2023-07-10T02:52:16.2124881Z</time>
+    <name>Station Kawaramachi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.965673" lon="136.621680">
+    <ele>0</ele>
+    <time>2023-07-10T02:53:30.1010651Z</time>
+    <name>Station Kintetsu Yokkaichi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.958357" lon="136.609504">
+    <ele>0</ele>
+    <time>2023-07-10T02:55:25.4205251Z</time>
+    <name>Station Akahori</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.954685" lon="136.605364">
+    <ele>0</ele>
+    <time>2023-07-10T02:56:49.1229753Z</time>
+    <name>Station Hinaga</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.950121" lon="136.602786">
+    <ele>0</ele>
+    <time>2023-07-10T02:58:02.0343795Z</time>
+    <name>Station Minami Hinaga</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.939682" lon="136.599849">
+    <ele>0</ele>
+    <time>2023-07-10T02:59:08.9897522Z</time>
+    <name>Station Tomari</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.934254" lon="136.595779">
+    <ele>0</ele>
+    <time>2023-07-10T03:00:20.039187Z</time>
+    <name>Station Oiwake</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.929441" lon="136.590880">
+    <ele>0</ele>
+    <time>2023-07-10T03:01:22.9268321Z</time>
+    <name>Station Ogoso</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.926094" lon="136.586612">
+    <ele>0</ele>
+    <time>2023-07-10T03:03:44.8983707Z</time>
+    <name>Station Utsube</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.890336" lon="136.535382">
+    <ele>0</ele>
+    <time>2023-07-10T03:05:17.18068Z</time>
+    <name>Station Kasado</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.868281" lon="136.491842">
+    <ele>0</ele>
+    <time>2023-07-10T03:07:19.1066528Z</time>
+    <name>Station Idagawa</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.853944" lon="136.450528">
+    <ele>0</ele>
+    <time>2023-07-10T03:09:08.1217204Z</time>
+    <name>Station Kameyama</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.852416" lon="136.394400">
+    <ele>0</ele>
+    <time>2023-07-10T20:38:29.0718005Z</time>
+    <name>Station Seki</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.970578" lon="136.171896">
+    <ele>0</ele>
+    <time>2023-07-10T20:41:26.5622036Z</time>
+    <name>Station Minakuchiichibashi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.983688" lon="136.117465">
+    <ele>0</ele>
+    <time>2023-07-10T20:43:31.2691823Z</time>
+    <name>Station Mikumo</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.998258" lon="136.080590">
+    <ele>0</ele>
+    <time>2023-07-10T20:45:02.9626692Z</time>
+    <name>Station Kosei</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.016808" lon="136.051203">
+    <ele>0</ele>
+    <time>2023-07-10T20:46:09.147749Z</time>
+    <name>Station Ishibe</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.025979" lon="135.999238">
+    <ele>0</ele>
+    <time>2023-07-10T20:47:37.0705787Z</time>
+    <name>Station Tehara</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.018062" lon="135.960837">
+    <ele>0</ele>
+    <time>2023-07-10T20:49:49.9276576Z</time>
+    <name>Station Kusatsu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.003162" lon="135.951900">
+    <ele>0</ele>
+    <time>2023-07-10T20:55:19.2031489Z</time>
+    <name>Station Minami Kusatsu</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.983474" lon="135.928141">
+    <ele>0</ele>
+    <time>2023-07-10T20:56:30.1219802Z</time>
+    <name>Station Seta</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.979226" lon="135.902080">
+    <ele>0</ele>
+    <time>2023-07-10T20:57:27.3287531Z</time>
+    <name>Station Ishiyama</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.985495" lon="135.898012">
+    <ele>0</ele>
+    <time>2023-07-10T20:58:11.7157789Z</time>
+    <name>Station Awazu</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.988536" lon="135.894100">
+    <ele>0</ele>
+    <time>2023-07-10T20:58:54.0250468Z</time>
+    <name>Station Kawaragahama</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.991289" lon="135.891982">
+    <ele>0</ele>
+    <time>2023-07-10T20:59:39.1266027Z</time>
+    <name>Station Nakanosho</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.994946" lon="135.891928">
+    <ele>0</ele>
+    <time>2023-07-10T21:01:19.8503791Z</time>
+    <name>Station Zeze Hommachi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.003047" lon="135.880843">
+    <ele>0</ele>
+    <time>2023-07-10T21:02:57.3655114Z</time>
+    <name>Station Keihan Zeze</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.004211" lon="135.875747">
+    <ele>0</ele>
+    <time>2023-07-10T21:05:06.9325218Z</time>
+    <name>Station Ishiba</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.007931" lon="135.862063">
+    <ele>0</ele>
+    <time>2023-07-10T21:06:33.9148116Z</time>
+    <name>Station Biwako Hamaotsu</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.002517" lon="135.860992">
+    <ele>0</ele>
+    <time>2023-07-10T21:08:03.2031258Z</time>
+    <name>Station Otsu</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.994465" lon="135.853141">
+    <ele>0</ele>
+    <time>2023-07-10T21:09:06.2410306Z</time>
+    <name>Station Otani</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.990251" lon="135.839915">
+    <ele>0</ele>
+    <time>2023-07-10T21:10:54.9423689Z</time>
+    <name>Station Oiwake</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.991290" lon="135.824165">
+    <ele>0</ele>
+    <time>2023-07-10T21:12:33.5143229Z</time>
+    <name>Station Shinomiya</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.991230" lon="135.817350">
+    <ele>0</ele>
+    <time>2023-07-10T21:14:12.9369394Z</time>
+    <name>Station Yamashina</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.993991" lon="135.802319">
+    <ele>0</ele>
+    <time>2023-07-10T21:17:12.0578104Z</time>
+    <name>Station Misasagi</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.008202" lon="135.790071">
+    <ele>0</ele>
+    <time>2023-07-10T21:19:27.6869522Z</time>
+    <name>Station Kaege</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.009381" lon="135.780292">
+    <ele>0</ele>
+    <time>2023-07-10T21:20:39.0541582Z</time>
+    <name>Station Higashiyama</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.009170" lon="135.773551">
+    <ele>0</ele>
+    <time>2023-07-10T21:21:22.7665307Z</time>
+    <name>Station Sanyo Keihan</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.945133" lon="138.355265">
+    <ele>0</ele>
+    <time>2023-10-17T13:17:49.1430755Z</time>
+    <name>Station Abekawa </name>
+    <desc />
+  </wpt>
+  <wpt lat="35.469796" lon="139.618798">
+    <ele>0</ele>
+    <time>2023-11-23T05:50:08.0665901Z</time>
+    <name>Station Yokohama</name>
+    <desc />
+  </wpt>
+  <wpt lat="35.192538" lon="139.026348">
+    <ele>0</ele>
+    <time>2023-11-23T08:21:12.0879867Z</time>
+    <name>Lake Ashi</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.974810" lon="138.385535">
+    <ele>0</ele>
+    <time>2023-11-23T22:26:58.7288332Z</time>
+    <name>Station Shizuoka</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.804180" lon="138.075130">
+    <ele>0</ele>
+    <time>2023-11-23T23:42:17.2432362Z</time>
+    <name>Nissaka</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.919896" lon="136.311504">
+    <ele>0</ele>
+    <time>2023-11-25T00:15:56.2142818Z</time>
+    <name>Tsuchimacho</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.949409" lon="136.230815">
+    <ele>0</ele>
+    <time>2023-11-25T02:01:55.5973076Z</time>
+    <name>Tsuchiyamacho</name>
+    <desc />
+  </wpt>
+  <wpt lat="34.886198" lon="138.280567">
+    <ele>0</ele>
+    <time>2023-11-25T03:32:40.3756995Z</time>
+    <name>Hanashi River</name>
+    <desc />
+  </wpt>
+</gpx>
